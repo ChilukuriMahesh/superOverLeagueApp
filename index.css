@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+}
+.image {
+  width: 100vh;
+  height: 100vh;
+}
+.bg-container {
+  background-color: #0f172a;
+  font-family: "Roboto";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
